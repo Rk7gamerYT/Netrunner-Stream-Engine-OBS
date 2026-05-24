@@ -160,6 +160,6 @@ MIT License
 
 ## Author
 
-Created by Rk7gamer
+Copyright (c) 2026 Rk7gamerYT
 
 Built because stream chat customization deserved more freedom.
