@@ -1,4 +1,4 @@
- Netrunner Stream Engine
+🍷Netrunner Stream Engine
 
 Multi-platform live chat engine for OBS with fully customizable overlays.
 
